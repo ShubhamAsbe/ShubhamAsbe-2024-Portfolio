@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Learn to Analyze",
+    "imageSrc": "projects/project.png",
+    "description": "The teacher dashboard is a platform for collecting and analyzing student data, offering visualization, analytics, profiles, and collaboration to boost performance.",
+    "skills": ["Python", "StreamLit","Machine Learning"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ShubhamAsbe/infilearn"
+  },
+  {
+    "title": "Infilearn",
+    "imageSrc": "projects/project.png",
+    "description": "Infilearn is a free learning website and an excellent platform for Students can watch educational videos, download study material, ask a question, and become instructors.",
+    "skills": ["HTML", "CSS", "JavaScript","JQuery","PHP"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ShubhamAsbe/Learn-to-Analyze"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "AI UNIKA",
+    "startDate": "Jan, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on MapBox", "Developed the UI and Functionality of the Dashboard"],
+    "imageSrc": "history/Ai_Unika_logo.jpeg"
+  },
+  {
+    "role": "Executive Producer",
+    "organisation": "TEDxJSPMRSCOE",
+    "startDate": "Nov, 2022",
+    "endDate": "April, 2024",
+    "experiences": ["Worked on Management of the Event", "Developed the Website of the TEDxJSPMRSCOE"],
+    "imageSrc": "history/tedxjspmrscoe.png"
+  },
+  {
+    "role": "Chair of ACM RSCOE",
+    "organisation": "ACM RSCOE Student Chapter",
+    "startDate": "March, 2022",
+    "endDate": "March, 2023",
+    "experiences": [
+      "Plan and Conducted 25+ Event",
+      "Lead a team of 50+ students"
+    ],
+    "imageSrc": "history/acm_rscoe.png"
+  }
+]
